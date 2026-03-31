@@ -1,22 +1,26 @@
 # AI Voice Note Summarizer
 
-An Android application that converts voice recordings into structured summaries using AI.
+An Android app that converts text/voice input into structured summaries using Generative AI.
 
 ## Features
-- 🎤 Voice input (Speech-to-Text)
-- 🤖 AI-based summarization
-- 📄 Clean UI with modern design
+- 🎤 Voice/Text Input
+- 🤖 AI Summarization (Gemini API)
+- 🧠 Summary Section
+- 📌 Key Points Extraction
+- 📱 Modern UI with Jetpack Compose
 
 ## Tech Stack
 - Kotlin
 - Jetpack Compose
-- Android Studio
-- Generative AI APIs
+- OkHttp
+- Google Generative AI API
 
 ## Status
-🚧 In Development (Prototype Phase)
+✅ AI Integration Complete  
+🚧 UI Enhancements in Progress
 
 ## Future Improvements
-- Key point extraction
 - ChatGPT-style UI
-- Cloud backend integration
+- Voice recording UI
+- Typing animation
+- Firebase backend
